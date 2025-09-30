@@ -1,0 +1,1 @@
+This project is an HTML-based art gallery showcasing selected artworks. It includes titles, descriptions, and price listings for each piece, arranged in a simple table format without external styling. The gallery highlights creativity while maintaining a clear and structured presentation
